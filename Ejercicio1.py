@@ -41,8 +41,8 @@ class Producto:
 
 
 p1 = Producto(1,"Producto 1",5)
-p2 = Producto(2,"Producto 1",10)
-p3 = Producto(3,"Producto 1",20)
+p2 = Producto(2,"Producto 2",10)
+p3 = Producto(3,"Producto 3",20)
 
 
 p1.nombre = "Julen"
