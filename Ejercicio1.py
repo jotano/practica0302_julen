@@ -36,7 +36,7 @@ class Producto:
 
 
     def __str__(self):
-        return 'Codigo:' + str(self.__codigo) + ', nombre:' + self.__nombre + ', precio:' + str(self.__nombre)
+        return 'Codigo:' + str(self.__codigo) + ', nombre:' + self.__nombre + ', precio:' + str(self.__precio)
    
 
 
