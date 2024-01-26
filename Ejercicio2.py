@@ -48,7 +48,7 @@ class Pedido:
         for (p,c) in zip(self.__productos, self.__cantidades):
             total = total + p.calcular_total(c)
 
-            return total 
+        return total 
 
     def mostrar_pedido(self):
         for (p,c) in zip(self.__productos, self.__cantidades):
